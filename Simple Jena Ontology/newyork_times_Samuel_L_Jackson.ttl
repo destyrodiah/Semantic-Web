@@ -1,0 +1,31 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns0: <http://data.nytimes.com/elements/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+
+<http://data.nytimes.com/82283153807785222583>
+  a skos:Concept ;
+  ns0:search_api_query "http://api.nytimes.com/svc/search/v1/article?query=+nytd_per_facet%3A%5BJackson%2C+Samuel+L%5D&rank=newest&fields=abstract,author,body,byline,classifiers_facet,column_facet,date,day_of_week_facet,des_facet,desk_facet,fee,geo_facet,lead_paragraph,material_type_facet,multimedia,nytd_byline,nytd_des_facet,nytd_geo_facet,nytd_lead_paragraph,nytd_org_facet,nytd_per_facet,nytd_section_facet,nytd_title,nytd_works_mentioned_facet,org_facet,page_facet,per_facet,publication_day,publication_month,publication_year,section_page_facet,small_image_height,small_image_url,small_image_width,source_facet,title,url,word_count,works_mentioned_facet"^^xsd:string ;
+  skos:prefLabel "Jackson, Samuel L"@en ;
+  skos:inScheme ns0:nytd_per ;
+  owl:sameAs <http://data.nytimes.com/jackson_samuel_l_per>, <http://rdf.freebase.com/ns/en.samuel_l_jackson> ;
+  ns0:first_use "2004-11-05"^^xsd:date ;
+  ns0:number_of_variants "2"^^xsd:int ;
+  ns0:latest_use "2010-05-07"^^xsd:date ;
+  ns0:associated_article_count "24"^^xsd:int ;
+  ns0:topicPage <http://topics.nytimes.com/top/reference/timestopics/people/j/samuel_l_jackson/index.html> .
+
+<http://data.nytimes.com/82283153807785222583.rdf>
+  foaf:primaryTopic <http://data.nytimes.com/82283153807785222583> ;
+  dc:rightsHolder "The New York Times Company"^^xsd:string ;
+  dc:modified "2010-06-22"^^xsd:date ;
+  dc:created "2009-09-24"^^xsd:date ;
+  dc11:creator "The New York Times Company"^^xsd:string ;
+  ns0:mapping_strategy ns0:manual ;
+  cc:license <http://creativecommons.org/licenses/by/3.0/us/> ;
+  cc:attributionURL <http://data.nytimes.com/82283153807785222583> ;
+  cc:attributionName "The New York Times Company"^^xsd:string .

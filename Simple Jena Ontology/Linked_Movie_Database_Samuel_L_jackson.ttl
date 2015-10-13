@@ -1,0 +1,116 @@
+@prefix ns0: <http://data.linkedmdb.org/resource/movie/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.linkedmdb.org/resource/film/4817> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/65159> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1374> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/54353> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2196> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/138> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/44440> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/47364> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/43986> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/52519> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/4991> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/70> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/795> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/7169> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2038> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39955> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/41206> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38170> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://www.freebase.com/view/guid/9202a8c04000641f8000000000069794> rdfs:seeAlso <http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f8000000000069794%3E> .
+<http://data.linkedmdb.org/resource/film/8108> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/52548> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/84072> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1687> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1684> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/7874> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/77> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/48428> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/6614> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/81402> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/42914> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/78> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/41637> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39797> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/actor/29873>
+  ns0:performance <http://data.linkedmdb.org/resource/performance/109932>, <http://data.linkedmdb.org/resource/performance/134976>, <http://data.linkedmdb.org/resource/performance/21829>, <http://data.linkedmdb.org/resource/performance/169813>, <http://data.linkedmdb.org/resource/performance/188290>, <http://data.linkedmdb.org/resource/performance/42597>, <http://data.linkedmdb.org/resource/performance/167474>, <http://data.linkedmdb.org/resource/performance/61126>, <http://data.linkedmdb.org/resource/performance/69483>, <http://data.linkedmdb.org/resource/performance/16829>, <http://data.linkedmdb.org/resource/performance/123423>, <http://data.linkedmdb.org/resource/performance/155845>, <http://data.linkedmdb.org/resource/performance/39616>, <http://data.linkedmdb.org/resource/performance/54691>, <http://data.linkedmdb.org/resource/performance/26115>, <http://data.linkedmdb.org/resource/performance/16166>, <http://data.linkedmdb.org/resource/performance/31695>, <http://data.linkedmdb.org/resource/performance/15118>, <http://data.linkedmdb.org/resource/performance/44951>, <http://data.linkedmdb.org/resource/performance/2242>, <http://data.linkedmdb.org/resource/performance/110189>, <http://data.linkedmdb.org/resource/performance/3204>, <http://data.linkedmdb.org/resource/performance/33668>, <http://data.linkedmdb.org/resource/performance/16202>, <http://data.linkedmdb.org/resource/performance/11671>, <http://data.linkedmdb.org/resource/performance/58046>, <http://data.linkedmdb.org/resource/performance/25045>, <http://data.linkedmdb.org/resource/performance/39621>, <http://data.linkedmdb.org/resource/performance/73171>, <http://data.linkedmdb.org/resource/performance/32212>, <http://data.linkedmdb.org/resource/performance/72213>, <http://data.linkedmdb.org/resource/performance/32995>, <http://data.linkedmdb.org/resource/performance/134962>, <http://data.linkedmdb.org/resource/performance/128690>, <http://data.linkedmdb.org/resource/performance/34453>, <http://data.linkedmdb.org/resource/performance/186601>, <http://data.linkedmdb.org/resource/performance/61819>, <http://data.linkedmdb.org/resource/performance/37553>, <http://data.linkedmdb.org/resource/performance/13414>, <http://data.linkedmdb.org/resource/performance/191255>, <http://data.linkedmdb.org/resource/performance/15678>, <http://data.linkedmdb.org/resource/performance/21331>, <http://data.linkedmdb.org/resource/performance/26951>, <http://data.linkedmdb.org/resource/performance/28988>, <http://data.linkedmdb.org/resource/performance/109937>, <http://data.linkedmdb.org/resource/performance/1035>, <http://data.linkedmdb.org/resource/performance/109969>, <http://data.linkedmdb.org/resource/performance/6426>, <http://data.linkedmdb.org/resource/performance/60297>, <http://data.linkedmdb.org/resource/performance/10336>, <http://data.linkedmdb.org/resource/performance/45273>, <http://data.linkedmdb.org/resource/performance/121156>, <http://data.linkedmdb.org/resource/performance/167470>, <http://data.linkedmdb.org/resource/performance/7075>, <http://data.linkedmdb.org/resource/performance/110019>, <http://data.linkedmdb.org/resource/performance/11643>, <http://data.linkedmdb.org/resource/performance/140473>, <http://data.linkedmdb.org/resource/performance/24946>, <http://data.linkedmdb.org/resource/performance/122378>, <http://data.linkedmdb.org/resource/performance/95999>, <http://data.linkedmdb.org/resource/performance/3653>, <http://data.linkedmdb.org/resource/performance/11248>, <http://data.linkedmdb.org/resource/performance/109942>, <http://data.linkedmdb.org/resource/performance/19466>, <http://data.linkedmdb.org/resource/performance/41908>, <http://data.linkedmdb.org/resource/performance/146200>, <http://data.linkedmdb.org/resource/performance/125299>, <http://data.linkedmdb.org/resource/performance/18187>, <http://data.linkedmdb.org/resource/performance/55688>, <http://data.linkedmdb.org/resource/performance/33188>, <http://data.linkedmdb.org/resource/performance/161115>, <http://data.linkedmdb.org/resource/performance/8513>, <http://data.linkedmdb.org/resource/performance/114041>, <http://data.linkedmdb.org/resource/performance/42598>, <http://data.linkedmdb.org/resource/performance/16141>, <http://data.linkedmdb.org/resource/performance/8482>, <http://data.linkedmdb.org/resource/performance/56180>, <http://data.linkedmdb.org/resource/performance/99461>, <http://data.linkedmdb.org/resource/performance/27429>, <http://data.linkedmdb.org/resource/performance/27955>, <http://data.linkedmdb.org/resource/performance/41543>, <http://data.linkedmdb.org/resource/performance/10727>, <http://data.linkedmdb.org/resource/performance/110109>, <http://data.linkedmdb.org/resource/performance/110210>, <http://data.linkedmdb.org/resource/performance/8797>, <http://data.linkedmdb.org/resource/performance/37778>, <http://data.linkedmdb.org/resource/performance/157854>, <http://data.linkedmdb.org/resource/performance/186654>, <http://data.linkedmdb.org/resource/performance/43798> ;
+  ns0:actor_nytimes_id "" ;
+  ns0:actor_name "Samuel L. Jackson" ;
+  ns0:actor_netflix_id "" ;
+  foaf:page <http://www.freebase.com/view/guid/9202a8c04000641f8000000000069794> ;
+  a ns0:actor, foaf:Person ;
+  rdfs:label "Samuel L. Jackson (Actor)" ;
+  ns0:actor_actorid "29873"^^xsd:int .
+
+<http://data.linkedmdb.org/resource/film/69> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/44963> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39914> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/46515> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/data/actor/29873>
+  foaf:primaryTopic <http://data.linkedmdb.org/resource/actor/29873> ;
+  rdfs:comment """Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.""" ;
+  rdfs:label "RDF Description of Samuel L. Jackson (Actor)" .
+
+<http://data.linkedmdb.org/resource/film/81400> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/97043> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/78042> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/44028> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2347> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/50833> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/3390> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/13168> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/61475> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38229> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38686> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/15464> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+foaf:Person rdfs:seeAlso <http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2FPerson%3E> .
+<http://data.linkedmdb.org/resource/film/16208> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39924> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38750> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/837> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39903> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38352> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/6236> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/8320> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/3749> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/40662> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/5381> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/867> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39406> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/6782> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/41133> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/60125> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2814> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2339> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/43488> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/549> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1169> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38294> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/43892> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1300> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/48823> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/72534> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1184> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/38946> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/81401> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/7170> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39883> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/14982> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/58545> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/5151> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/39654> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/44192> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/59391> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/5237> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/2648> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/63841> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .
+<http://data.linkedmdb.org/resource/film/1408> ns0:actor <http://data.linkedmdb.org/resource/actor/29873> .

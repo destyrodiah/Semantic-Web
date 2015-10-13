@@ -1,0 +1,414 @@
+@prefix ns0: <http://dbpedia.org/property/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix ns2: <http://www.w3.org/ns/prov#> .
+
+<http://dbpedia.org/resource/Reasonable_Doubt_(2014_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/SLJ> ns1:wikiPageDisambiguates <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Mr._Incredible_and_Pals>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Pulp_Fiction>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Samuel_L._Jackson>
+  a <http://dbpedia.org/class/yago/Actor109765278>, <http://dbpedia.org/class/yago/Militant110315837>, <http://dbpedia.org/class/yago/Disputant109615465>, <http://dbpedia.org/class/yago/Reformer110515194>, foaf:Person, <http://dbpedia.org/class/yago/ActorsFromWashington,D.C.>, <http://dbpedia.org/class/yago/PeopleFromWashington,D.C.>, <http://dbpedia.org/class/yago/CausalAgent100007347>, <http://dbpedia.org/class/yago/LivingThing100004258>, <http://dbpedia.org/class/yago/YagoLegalActorGeo>, <http://umbel.org/umbel/rc/PersonWithOccupation>, <http://dbpedia.org/class/yago/Organism100004475>, <http://dbpedia.org/class/yago/Person100007846>, <http://dbpedia.org/class/yago/YagoLegalActor>, <http://dbpedia.org/class/yago/LivingPeople>, <http://umbel.org/umbel/rc/Artist>, ns1:Agent, <http://umbel.org/umbel/rc/Actor>, ns1:Person, <http://dbpedia.org/class/yago/ActorsFromTennessee>, <http://dbpedia.org/class/yago/PeopleFromChattanooga,Tennessee>, <http://dbpedia.org/class/yago/African-AmericanActors>, <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>, <http://dbpedia.org/class/yago/PhysicalEntity100001930>, <http://wikidata.dbpedia.org/resource/Q5>, <http://dbpedia.org/class/yago/PeopleSelf-identifyingAsAlcoholics>, <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>, <http://dbpedia.org/class/yago/AmericanVoiceActors>, <http://dbpedia.org/class/yago/Whole100003553>, <http://dbpedia.org/class/yago/Object100002684>, <http://wikidata.dbpedia.org/resource/Q215627>, owl:Thing, <http://dbpedia.org/class/yago/MorehouseCollegeAlumni>, <http://dbpedia.org/class/yago/AfricanAmericanTelevisionActors>, <http://dbpedia.org/class/yago/AfricanAmericanFilmActors>, <http://dbpedia.org/class/yago/AfricanAmericans'RightsActivists>, schema:Person, <http://dbpedia.org/class/yago/Alumnus109786338>, <http://dbpedia.org/class/yago/Entertainer109616922>, <http://dbpedia.org/class/yago/Performer110415638>, <http://dbpedia.org/class/yago/Scholar110557854>, <http://dbpedia.org/class/yago/Intellectual109621545>, <http://dbpedia.org/class/yago/PeopleSelf-identifyingAsSubstanceAbusers> ;
+  owl:sameAs <http://simple.dbpedia.org/resource/Samuel_L._Jackson>, <http://de.dbpedia.org/resource/Samuel_L._Jackson>,  <http://pt.dbpedia.org/resource/Samuel_L._Jackson>, <http://lt.dbpedia.org/resource/Samuel_Leroy_Jackson>, <http://sv.dbpedia.org/resource/Samuel_L._Jackson>, <http://no.dbpedia.org/resource/Samuel_L._Jackson>, <http://fr.dbpedia.org/resource/Samuel_L._Jackson>,  <http://hu.dbpedia.org/resource/Samuel_L._Jackson>, <http://dbpedia.org/resource/Samuel_L._Jackson>, <http://pl.dbpedia.org/resource/Samuel_L._Jackson>, <http://hr.dbpedia.org/resource/Samuel_L._Jackson>, <http://id.dbpedia.org/resource/Samuel_L._Jackson>, <http://eo.dbpedia.org/resource/Samuel_L._Jackson>, <http://cy.dbpedia.org/resource/Samuel_L._Jackson>, <http://tr.dbpedia.org/resource/Samuel_L._Jackson>, <http://yago-knowledge.org/resource/Samuel_L._Jackson>, <http://gd.dbpedia.org/resource/Samuel_L._Jackson>, <http://ga.dbpedia.org/resource/Samuel_L._Jackson>, <http://bs.dbpedia.org/resource/Samuel_L._Jackson>, <http://gl.dbpedia.org/resource/Samuel_L._Jackson>, <http://nl.dbpedia.org/resource/Samuel_L._Jackson>, <http://fi.dbpedia.org/resource/Samuel_L._Jackson>, <http://cs.dbpedia.org/resource/Samuel_L._Jackson>, <http://la.dbpedia.org/resource/Samuel_L._Jackson>, <http://wikidata.org/entity/Q172678>, <http://sw.cyc.com/concept/Mx4rv3xuPJwpEbGdrcN5Y29ycA>, <http://eu.dbpedia.org/resource/Samuel_L._Jackson>, <http://data.linkedmdb.org/resource/producer/9848>, <http://ro.dbpedia.org/resource/Samuel_L._Jackson>, <http://sh.dbpedia.org/resource/Samuel_L._Jackson>, <http://rdf.freebase.com/ns/m.0f5xn>, <http://wikidata.dbpedia.org/resource/Q172678>, <http://ca.dbpedia.org/resource/Samuel_L._Jackson>, <http://tl.dbpedia.org/resource/Samuel_L._Jackson>, <http://es.dbpedia.org/resource/Samuel_L._Jackson>, <http://da.dbpedia.org/resource/Samuel_L._Jackson>, <http://it.dbpedia.org/resource/Samuel_L._Jackson>, <http://vi.dbpedia.org/resource/Samuel_L._Jackson>, <http://oc.dbpedia.org/resource/Samuel_L._Jackson> ;
+  rdfs:label "Samuel L. Jackson"@de, "Samuel L. Jackson"@nl, "Samuel L. Jackson"@it, "Samuel L. Jackson"@fr, "Samuel L. Jackson"@pl, "Samuel L. Jackson"@en,  "Samuel L. Jackson"@pt ;
+  dc:subject <http://dbpedia.org/resource/Category:21st-century_American_male_actors>, <http://dbpedia.org/resource/Category:American_male_film_actors>, <http://dbpedia.org/resource/Category:American_male_television_actors>, <http://dbpedia.org/resource/Category:Silver_Bear_for_Best_Actor_winners>, <http://dbpedia.org/resource/Category:20th-century_American_male_actors>, <http://dbpedia.org/resource/Category:Independent_Spirit_Award_for_Best_Male_Lead_winners>, <http://dbpedia.org/resource/Category:Morehouse_College_alumni>, <http://dbpedia.org/resource/Category:African-American_male_actors>, <http://dbpedia.org/resource/Category:American_male_voice_actors>, <http://dbpedia.org/resource/Category:Male_actors_from_Washington,_D.C.>, <http://dbpedia.org/resource/Category:Living_people>, <http://dbpedia.org/resource/Category:People_from_Chattanooga,_Tennessee>, <http://dbpedia.org/resource/Category:African-Americans'_civil_rights_activists>, <http://dbpedia.org/resource/Category:American_people_of_Benga_descent>, <http://dbpedia.org/resource/Category:American_people_of_Gabonese_descent>, <http://dbpedia.org/resource/Category:1948_births>, <http://dbpedia.org/resource/Category:Male_actors_from_Tennessee>, <http://dbpedia.org/resource/Category:Best_Supporting_Actor_BAFTA_Award_winners> ;
+  ns0:hasPhotoCollection <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Samuel_L._Jackson> ;
+  foaf:homepage <http://www.samuelljackson.com/> ;
+  ns1:wikiPageExternalLink <http://www.talktalk.co.uk/entertainment/film/biography/artist/samuel-l-jackson/biography/109>, <http://www.nytimes.com/2012/04/29/magazine/how-samuel-l-jackson-became-his-own-genre.html?pagewanted=all>, <http://www.samuelljackson.com/> ;
+  ns1:spouse <http://dbpedia.org/resource/LaTanya_Richardson> ;
+  ns0:alt "An African-American man is at the centre of the image looking to the left and smiling. He is wearing a hat, glasses, a white jacket and a black t-shirt that says \"MoFo\"."@en ;
+  ns0:alternativeNames "Jackson, Sam; Jackson, Samuel L."@en ;
+  ns0:birthDate "1948-12-21+02:00"^^xsd:date ;
+  ns0:birthName "Samuel Leroy Jackson"@en ;
+  ns0:birthPlace "Washington, D.C., United States"@en ;
+  ns0:caption "Jackson at the 2008 San Diego Comic Con International"@en ;
+  ns0:children 1 ;
+  ns0:dateOfBirth "1948-12-21+02:00"^^xsd:date ;
+  ns0:gnd 124198511 ;
+  ns0:lccn "no/96/025567"@en ;
+  ns0:name "Jackson, Samuel Leroy"@en ;
+  ns0:occupation "Actor, producer"@en ;
+  ns0:placeOfBirth "Washington, D.C., United States"@en ;
+  ns0:quote "Casting black actors is still strange for Hollywood. Denzel gets the offer first. Then it's Danny Glover, Forest Whitaker and Wesley Snipes. Right now, I'm the next one on the list."@en, "I would like to think because of the things I did, my daughter can do the things that she does. She barely has a recognition that she's black."@en ;
+  ns0:shortDescription "Actor"@en ;
+  ns0:source "â€”Jackson reflecting on his actions during the Civil Rights Movement"@en, "â€”Jackson reacting to his new fame in 1993"@en ;
+  ns0:spouse <http://dbpedia.org/resource/LaTanya_Richardson> ;
+  ns0:title "Awards for Samuel L. Jackson"@en ;
+  ns0:viaf 84357496 ;
+  ns0:width 30 ;
+  ns0:yearsActive 1972 ;
+  foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Samuel_L_Jackson_at_San_Diego_ComicCon_2008.jpg> ;
+  ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Samuel_L_Jackson_at_San_Diego_ComicCon_2008.jpg?width=300> ;
+  ns1:abstract "Samuel Leroy Jackson (born December 21, 1948) is an American film and television actor and film producer. After becoming involved with the Civil Rights Movement, he moved on to acting in theater at Morehouse College, and then films. He had several small roles such as in the film Goodfellas before meeting his mentor, Morgan Freeman, and the director Spike Lee. After gaining critical acclaim for his role in Jungle Fever in 1991, he appeared in films such as Patriot Games, Amos & Andrew, True Romance and Jurassic Park. In 1994, he was cast as Jules Winnfield in Pulp Fiction, and his performance received several award nominations and critical acclaim.Jackson has since appeared in over 100 films, including Die Hard with a Vengeance, The 51st State, Jackie Brown, Unbreakable, The Incredibles, Black Snake Moan, Shaft, Snakes on a Plane, Django Unchained, as well as the Star Wars prequel trilogy and small roles in Quentin Tarantino's Kill Bill Vol. 2 and Inglourious Basterds.He played Nick Fury in Iron Man, Iron Man 2, Thor, Captain America: The First Avenger, Marvel's The Avengers, and Captain America: The Winter Soldier, the first six of a nine-film commitment as the character for the Marvel Cinematic Universe franchise. Jackson is set to reprise his role as Fury in the 2015 film Avengers: Age of Ultron. Jackson's many roles have made him one of the highest-grossing actors at the box office. Jackson has won multiple awards throughout his career and has been portrayed in various forms of media, including films, television series, and songs. In 1980, Jackson married LaTanya Richardson, with whom he has a daughter, Zoe.In October 2011, Jackson surpassed Frank Welker as the actor with the highest grossing film total of all time."@en; 
+  ns1:birthName "Samuel Leroy Jackson"@en ;
+  dc11:description "Actor"@en, "Actor" ;
+  foaf:givenName "Samuel Leroy"@en ;
+  foaf:name "Samuel Leroy Jackson"@en, "Jackson, Samuel Leroy"@en ;
+  ns1:activeYearsStartYear "1972+02:00"^^xsd:gYear ;
+  ns1:alias "Jackson, Sam; Jackson, Samuel L." ;
+  ns1:birthDate "1948-12-21+02:00"^^xsd:date ;
+  ns1:birthPlace <http://dbpedia.org/resource/Washington,_D.C.> ;
+  ns1:birthYear "1948+02:00"^^xsd:gYear ;
+  ns1:lccnId "no/96/025567" ;
+  ns1:occupation <http://dbpedia.org/resource/Samuel_L._Jackson__1> ;
+  ns1:viafId "84357496" ;
+  ns0:wordnet_type <http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1> ;
+  ns1:individualisedGnd "124198511" ;
+  ns2:wasDerivedFrom <http://en.wikipedia.org/wiki/Samuel_L._Jackson?oldid=606467192> ;
+  rdfs:comment "Samuel Leroy Jackson, conosciuto come Samuel L."@it, "Samuel Leroy Jackson (born December 21, 1948) is an American film and television actor and film producer. After becoming involved with the Civil Rights Movement, he moved on to acting in theater at Morehouse College, and then films. He had several small roles such as in the film Goodfellas before meeting his mentor, Morgan Freeman, and the director Spike Lee."@en; 
+  ns1:wikiPageID 54306 ;
+  ns1:wikiPageRevisionID 606467192 ;
+  foaf:surname "Jackson"@en ;
+  foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Star_Wars_Episode_II:_Attack_of_the_Clones> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Star_Wars_Episode_III:_Revenge_of_the_Sith>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Unbreakable_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/No_Good_Deed_(2002_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Big_Game_(2014_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Turbo_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Lakeview_Terrace>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2008)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2009)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Sam_L> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes_(2000%E2%80%9309)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Jurassic_Park_(film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Avengers:_Age_of_Ultron> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Farce_of_the_Penguins>
+  ns0:narrator <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:narrator <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Fluke_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Freedomland_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Incredibles>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Hard_Eight_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Loaded_Weapon_1>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_black_superheroes> ns0:portrayedBy <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/The_Great_White_Hype>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/One_Eight_Seven>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Eve's_Bayou>
+  ns0:producer <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:producer <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Frank_Tenpenny> ns0:voiceactor <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/1408_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2010)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/0-8-4> ns1:guest <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Jungle_Fever>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Lisa_Kudrow> ns0:before <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/The_Negotiator>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Basic_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Jumper_(film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Kite_(2014_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Avengers_(2012_film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/In_My_Country>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Robby_Jackson>
+  ns1:portrayer <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns0:portrayer <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Soul_Men>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/BET_Awards_2012> ns0:host <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Quantum_Quest:_A_Cassini_Space_Odyssey>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Assault_at_West_Point:_The_Court-Martial_of_Johnson_Whittaker>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Friday_Night_with_Jonathan_Ross_episodes> ns0:aux <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Ragtime_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Red_Violin>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Fury_(2012_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:producer <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Man_(2005_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Zambezia_(film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Twisted_(2004_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_23)> ns0:rtitle <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/The_Sunset_Limited_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Morehouse_College_alumni> ns0:name <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Die_Hard_with_a_Vengeance>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Secret_Service_(film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/A_Time_to_Kill_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Black_Snake_Moan_(film)>
+  ns0:extra <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Fresh_(1994_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Rules_of_Engagement_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Jackie_Brown_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Changing_Lanes> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Coach_Carter>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Kiss_of_Death_(1995_film)> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Shaft_(2000_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_New_Age_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/BaadAsssss_Cinema>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Resurrecting_the_Champ>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://fr.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://de.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://wikidata.dbpedia.org/resource/Q172678> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://cs.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://es.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://eu.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://id.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://it.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://nl.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://pl.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://pt.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Deep_Blue_Sea_(1999_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2011)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2005)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Big_Game_(film)> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Jackson,_Samuel> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/S.L._Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/S._L._Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/SL_Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Samuel_Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Samuel_L> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Samuel_L_Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Samuel_Leroy_Jackson> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Slj> ns1:wikiPageRedirects <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Django_Unchained> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Django_Unchained_(soundtrack)> ns0:extra <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Home_of_the_Brave_(2006_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Mace_Windu> ns0:portrayer <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Sphere_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Against_the_Wall_(1994_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Curiosity_(TV_series)> ns0:aux <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes_(2010)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/The_Caveman's_Valentine>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Cleaner_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Mother_and_Child_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Pulp_Fiction_(soundtrack)> ns0:extra <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/African_Cats> ns1:narrator <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Hail_Caesar_(1994_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Film_Sack_episodes> ns0:aux <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/S.W.A.T._(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Arena_(2011_film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Captain_America:_The_Winter_Soldier> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Juice_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_11)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_12)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_13)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_4)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_7)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_9)> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/The_51st_State>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/The_Long_Kiss_Goodnight>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Losing_Isaiah>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Def_by_Temptation> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Afro_Samurai:_Resurrection>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:producer <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Amos_&_Andrew> ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Afro_Samurai> ns0:producer <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Fathers_&_Sons_(film)>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Unthinkable>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Breaking_Bad_(season_5)> ns0:aux <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Conan_O'Brien_episodes> ns0:rtitle <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/List_of_Lopez_Tonight_episodes> ns0:guests <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://dbpedia.org/resource/Barely_Lethal>
+  ns0:starring <http://dbpedia.org/resource/Samuel_L._Jackson> ;
+  ns1:starring <http://dbpedia.org/resource/Samuel_L._Jackson> .
+
+<http://dbpedia.org/resource/Afro_Samurai__film__1> ns1:producer <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://en.wikipedia.org/wiki/Samuel_L._Jackson> foaf:primaryTopic <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://bs.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://ca.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://cy.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://da.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://eo.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://fi.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://ga.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://gd.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://gl.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://hr.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://hu.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://la.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://lt.dbpedia.org/resource/Samuel_Leroy_Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://no.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://oc.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://ro.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://sh.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://simple.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://sv.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://tl.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://tr.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
+<http://vi.dbpedia.org/resource/Samuel_L._Jackson> owl:sameAs <http://dbpedia.org/resource/Samuel_L._Jackson> .
